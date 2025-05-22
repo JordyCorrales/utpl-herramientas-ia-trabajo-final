@@ -12,8 +12,8 @@
 
 Integrantes:
 
-- I1
-- I2
+- Jordy Alexander Corrales Zapata
+- Edwin Diego Bayas Sánchez
 
 TEMA: Genera una aplicación de inteligencia artificial que use librerías de software libre a través de herramientas colaborativas.
 
